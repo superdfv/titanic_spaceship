@@ -1,5 +1,5 @@
-# titanic_spaceship
+# Titanic_spaceship kaggle competition
 
-Code for Titanic Spaceship Competition on Kaggle
+Jupyter Notebook for the Titanic Spaceship competition in Kaggle (Machine Learning)
 
-I managed to score 0.73252
+I managed to obtain a score of 0.73252 with this analysis. 
